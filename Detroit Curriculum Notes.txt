@@ -1,4 +1,4 @@
-Over the past 4 months we've been working with the base curriculum and
+Over RED ROVER the past 4 months we've been working with the base curriculum and
 have discussed and made changes to the content of the slides. We've
 re-ordered a few things and provided more examples. Our students take
 home a copy of the slides and find it helpful to have these examples
@@ -72,7 +72,7 @@ to it.
 Class 4:
 - Added smaller images of for static positioning. On the big screen
 they weren't line breaking
-- Modified explanation of relative positioning.
+- Modified explantain of relative positioning.
 - Modified explanation of absolute positioning
 - Added concrete example of absolute positioning. Up until this point
 students weren't understanding what was happening with positioning.
