@@ -1,5 +1,7 @@
-# CORE HTML/CSS
+This is a change for the Git practice example on 2020-02-08
 
+# CORE HTML/CSS
+---
 This is the official Girl Develop It Core HTML/CSS curriculum. It was developed through the contributions of Pamela Fox,
 Alexis Goldstein, Erin M. Kidwell, Izzy Johnston, and Jen Myers.
 
@@ -55,3 +57,5 @@ You can change transition by changing the reveal transition property in Reveal.i
       transition:  'default', // default/cube/page/concave/zoom/linear/none
   });
 ```
+---
+
