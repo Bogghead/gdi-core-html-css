@@ -1,5 +1,5 @@
 # CORE  HTML/CSS
-
+---
 This is the official Girl Develop It Core HTML/CSS curriculum. It was developed through the contributions of Pamela Fox, Alexis Goldstein, Erin M. Kidwell, Izzy Johnston, and Jen Myers.
 
 The course is meant to be taught in 4 two-hour sections. Each of the slides and practice files are customizable according to the needs of a given class or audience.
@@ -50,3 +50,5 @@ You can change transition by changing the reveal transition property in Reveal.i
   				transition:  'default', // default/cube/page/concave/zoom/linear/none
   			});
 ```
+---
+
