@@ -1,4 +1,4 @@
-# CORE  HTML/CSS
+# CORE HTML/CSS
 
 This is the official Girl Develop It Core HTML/CSS curriculum. It was developed through the contributions of Pamela Fox,
 Alexis Goldstein, Erin M. Kidwell, Izzy Johnston, and Jen Myers.
@@ -10,12 +10,12 @@ according to the needs of a given class or audience.
 
 ### Class 1
 
-Introduction to HTML. What is it? Why does it matter?   You will go through the basic history of HTML, including how it
-interacts with the browser and why that matters.   Then you will discuss the layout of an HTML page, including html,
-body, head and nesting.   Finally, you will go through many of the basic HTML elements.   Students will begin to make a
+Introduction to HTML. What is it? Why does it matter? You will go through the basic history of HTML, including how it
+interacts with the browser and why that matters. Then you will discuss the layout of an HTML page, including html,
+body, head and nesting. Finally, you will go through many of the basic HTML elements. Students will begin to make a
 personal portfolio page with HTML elements and no styling.
 
-### Class 2   Introduction to CSS. Colors? Styles? What? It's all true. And you thought we are going to make you live
+### Class 2 Introduction to CSS. Colors? Styles? What? It's all true. And you thought we are going to make you live
 your life in black and white.
 
 You will go through most of the css styles, including font changes, layout, size, and color. You will show how to
@@ -27,7 +27,7 @@ Students will add CSS styling to their portfolio.
 
 Introduction to divs, spans, ids and classes. You didn't think we would just leave you with paragraphs and lists did
 you? No, my friends. We are going to dive into these super valuable container elements. Then learn how to have id and
-class selectors in our CSS. Who wants all paragraphs to look the same.   Students will start customizing their portfolio
+class selectors in our CSS. Who wants all paragraphs to look the same. Students will start customizing their portfolio
 with all sorts of goodies.
 
 ### Class 4
@@ -52,6 +52,6 @@ You can change the text editor theme by changing the highlight.js css to the fol
 You can change transition by changing the reveal transition property in Reveal.initialize
 ```javascript
   Reveal.initialize({
-  				transition:  'default', // default/cube/page/concave/zoom/linear/none
-  			});
+      transition:  'default', // default/cube/page/concave/zoom/linear/none
+  });
 ```
